@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercise: Fill in the blanks app
 
 1. Clone (```git clone```) [this app](https://github.com/nax3t/fill_in_the_blanks) to your local drive
@@ -40,3 +41,6 @@
 - Have your root set to your posts index
 
 **Push this app to a new repo in your GitHub called ```fill_in_the_blanks``` then submit the link via Piazza**
+=======
+# fill_in_the_blanks
+>>>>>>> 8027d4b54847cd99176fe55ca59e33e0c9fd9e10
